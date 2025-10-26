@@ -1,0 +1,43 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Spark / local metadata
+spark-warehouse/
+metastore_db/
+
+# Data files (optional - keep if you store sample datasets in repo)
+# Uncomment to ignore large dataset files
+# Datasets/
+
+# Logs
+*.log
