@@ -1,0 +1,563 @@
+codProducto,nomProducto,codRamo,nomRamo,seRenuevaRamo,nomGrupo,nomCompania,nomGrupoEmpresarial,GrupoRamo,Ramo,NegociosEspeciales
+17,Pac - Preferencial,113,Plan Complementario Familiar,Se renueva,PYF,Soluciones de EPS Sura,Sura,Salud Familiar,Salud Familiar,No Aplica
+20,Pac - Plus,113,Plan Complementario Familiar,Se renueva,PYF,Soluciones de EPS Sura,Sura,Salud Familiar,Salud Familiar,No Aplica
+64,Pagos Limitados A Edad 70 Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+11,Plan Salud Evoluciona Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+83,Cartera Masvida,181,Masvida,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Enfermedades Graves,Enfermedades Graves,No Aplica
+65,Vida Suramericana $ 1%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+68,Cartera HogarSura,028,HogarSura,Se renueva,PYF,Soluciones de Seguros Generales,Sura,Hogar,Hogar,No Aplica
+31,Seguro Pyme Express,030,Incendio,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Incendio,Incendio,No Aplica
+43,Cartera Sin Información,S01,Sin Información,No se Renueva,PYF,Soluciones de Seguros Generales,Sura,Otros,Otros,No Aplica
+82,Seguro Agricola De Dano Material Directo Y Ajuste En Planta Viva,006,Seguros Agrícolas,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Agricola,Agricola,No Aplica
+66,Saldado Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+67,Vida Para Todos Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+87,Sucapital Asegurado 1.5%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+9,Plan Vida Personal,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+23,Prorrogado Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+115,Sucapital Asegurado 1.0%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+84,Sucapital Asegurado 0%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+88,Sucapital Asegurado 0.5%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+85,Vida Para Todos Tcm 84 88,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+86,Sucapital Clasico Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+236,Sucapital Clasico 1.5%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+96,Sucapital Clasico 0.5%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+97,Cafe Vida Agricola,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+123,Sucapital Clasico 1%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+124,Vida Joven 1.5%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+125,Saldado Tcm 84 88,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+128,Vida Suramericana $ 0.5%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+129,Vida Suramericana $ 0%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+235,Sucapital Asegurado 2.0%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+170,Sucapital Clasico 0%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+193,Limitado A Prima Unica,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+194,Limitado A Cinco Pagos,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+195,Saldado 2013,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+196,Pagos Limitados A Edad 80 Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+345,Sucapital Asegurado 3.0%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+89,Plan Accidentes Personales - Individual,084,Accidentes Personales,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Accidentes Personales,Accidentes Personales,No Aplica
+585,Disfruta En Vida,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+112,Cartera Maquinaria y Equipo Contratistas,032,Maquinaria y Equipo Contratistas,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+7,Plan Vive,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+91,Seguro De Maquinaria Y Equipo De Contratistas,032,Maquinaria y Equipo Contratistas,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+896,Vida Segura 1%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+114,Seguro De Transporte De Mercancias Gw,020,Transporte de Mercancias,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Transporte Mercancia,Transporte Mercancia,No Aplica
+42,Seguro Prorrogado,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+46,Cartera Vida Individual,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+10,Plan Salud Clásico Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+21,Plan Salud Global Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+40,Salud Para Todos Integral Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+127,Plan Salud Plus Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+200,Salud Para Dos Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+1038,Plan Salud Sualternativa,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+6,Plan Salud Para Todos Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+30,Seguro De Exequias Familiar,086,Exequial,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Exequial,Exequial,No Aplica
+22,Tratamiento Por Complicaciones Cirugias Amparadas,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+26,Productos Viajeros,BAN,AP Viajero,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Ap Viajero,Ap Viajero,No Aplica
+51,Cartera Salud Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+28,Soat,041,Autos Obligatorio,Se renueva,Soat,Soluciones de Seguros Generales,Sura,Soat,Soat,No Aplica
+32,Seguro De Enfermedades Graves,181,Masvida,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Enfermedades Graves,Enfermedades Graves,No Aplica
+29,Hogar Sura,028,HogarSura,Se renueva,PYF,Soluciones de Seguros Generales,Sura,Hogar,Hogar,No Aplica
+744,Seguro De Incendio,030,Incendio,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Incendio,Incendio,No Aplica
+3,Seguro de Incendio GW,030,Incendio,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Incendio,Incendio,No Aplica
+119,Asegurados,S01,Sin Información,No se Renueva,PYF,Soluciones de Seguros Generales,Sura,Otros,Otros,No Aplica
+98,Cartera Seguros Agrícolas,006,Seguros Agrícolas,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Agricola,Agricola,No Aplica
+118,Cartera Arrendamiento,031,Arrendamiento,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Arrendamiento,Arrendamiento,No Aplica
+126,Cartera Autos Obligatorio,041,Autos Obligatorio,Se renueva,Soat,Soluciones de Seguros Generales,Sura,Soat,Soat,No Aplica
+171,Cartera Juvenil,085,Juvenil,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Juvenil,Juvenil,No Aplica
+120,Seguro De Responsabilidad Civil Profesional Para Clinicas Y Hospitales,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+634,Administradora De Riesgos Laborales,A001,Arl,No se Renueva,Arl,Soluciones ARL Sura,Sura,Arl,Arl,No Aplica
+322,Cartera Transporte de Mercancias,020,Transporte de Mercancias,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Transporte Mercancia,Transporte Mercancia,No Aplica
+607,Seguro De Transporte De Mercancias,020,Transporte de Mercancias,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Transporte Mercancia,Transporte Mercancia,No Aplica
+275,R.C. Familiar,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+753,Cartera Montaje Todo Riesgo,033,Montaje Todo Riesgo,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Montaje,Montaje,No Aplica
+1,Nuevos Productos Autosura,040,Automoviles,Se renueva,PYF,Soluciones de Seguros Generales,Sura,Automoviles,Automoviles,No Aplica
+94,Seguro De Montaje,033,Montaje Todo Riesgo,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Montaje,Montaje,No Aplica
+39,Seguro De Exequias Familiar,086,Exequial,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Exequial,Exequial,No Aplica
+8,Seguro de Responsabilidad Civil Derivado de Cumplimiento,013,Responsabilidad Civil,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1319,R.C Especial Autos Host Gw,010,R.C. PARQUEADEROS Y TALLERES,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,R.C. Parqueaderos Y Talleres,R.C. Parqueaderos Y Talleres,No Aplica
+1323,Bancaseguros,BAN,AP Viajero,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Ap Viajero,Ap Viajero,No Aplica
+1324,Productos Exito,BAN,AP Viajero,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Ap Viajero,Ap Viajero,No Aplica
+1327,Seguro De Responsabilidad Civil Talleres,010,R.C. PARQUEADEROS Y TALLERES,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,R.C. Parqueaderos Y Talleres,R.C. Parqueaderos Y Talleres,No Aplica
+1330,Seguro De Viajes Digital Intern,084,Accidentes Personales,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Accidentes Personales,Accidentes Personales,No Aplica
+18,Pac - 60 Más,113,Plan Complementario Familiar,Se renueva,PYF,Soluciones de EPS Sura,Sura,Salud Familiar,Salud Familiar,No Aplica
+19,Pac - Básico,113,Plan Complementario Familiar,Se renueva,PYF,Soluciones de EPS Sura,Sura,Salud Familiar,Salud Familiar,No Aplica
+47,Cartera Automoviles,040,Automoviles,Se renueva,PYF,Soluciones de Seguros Generales,Sura,Automoviles,Automoviles,No Aplica
+48,Cartera Incendio,030,Incendio,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Incendio,Incendio,No Aplica
+49,Cartera Responsabilidad Civil,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+53,Cartera Plan Complementario Familiar,113,Plan Complementario Familiar,Se renueva,PYF,Soluciones de EPS Sura,Sura,Salud Familiar,Salud Familiar,No Aplica
+56,Seguro De Maquinaria Y Equipo De Contratistas Gw,032,Maquinaria y Equipo Contratistas,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+57,R.C. D Y O Host Gw,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+59,Seguro De Transporte De Valores Gw,024,Transporte de Valores,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Transporte Valores,Transporte Valores,No Aplica
+61,Soat Generales,001,Soat,No se Renueva,Soat,Soluciones de Seguros Generales,Sura,Soat,Soat,No Aplica
+62,Seguro De Hogar,028,HogarSura,Se renueva,PYF,Soluciones de Seguros Generales,Sura,Hogar,Hogar,No Aplica
+234,Seguro De Responsabilidad Civil Por Danos A Terceros,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+211,Seguro De Responsabilidad Civil Profesional Para Medicos,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+54,Cartera Exequial,086,Exequial,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Exequial,Exequial,No Aplica
+58,Seguro De Salud A Tu Alcance Familiar,090,Salud Familiar,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Salud Familiar,Salud Familiar,No Aplica
+63,Vida Suramericana Pesos Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+113,Cartera Accidentes Personales,084,Accidentes Personales,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Accidentes Personales,Accidentes Personales,No Aplica
+346,Sucapital Clasico 2%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+1340,Seguro De Responsabilidad Civil Profesional,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1326,Seguro De Equipo Electronico Gw,009,Equipo Electronico,Se renueva,PYF,Soluciones de EPS Sura,Sura,Incendio,Incendio,No Aplica
+1354,Sucapital Asegurado 0% Plan 41,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+1355,Vida Suramericana Dolares Ntcm,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+1372,Manejo Global Comercial Host Gw,011,Manejo,Se renueva,PYF,Soluciones de EPS Sura,Sura,Manejo,Manejo,No Aplica
+1373,Seguro De Infidelidad Y Riesgos Financieros,017,Manejo Bancario,Se renueva,PYF,Soluciones de EPS Sura,Sura,Manejo,Manejo,No Aplica
+1375,Seguro De Navegacion,021,Navegacion,Se renueva,PYF,Soluciones de EPS Sura,Sura,Navegacion,Navegacion,No Aplica
+1376,Seguro De Rotura De Maquinaria Gw,019,Rotura De Maquinaria,Se renueva,PYF,Soluciones de EPS Sura,Sura,Incendio,Incendio,No Aplica
+1380,Vida Suramericana $ 0.75%,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+1425,Plan Renta Diaria Familiar,183,Surenta,Se renueva,PYF,Soluciones de EPS Sura,Sura,Vida Grupo,Vida Grupo,No Aplica
+1440,Plan Inversion Protegida,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,No Aplica
+1447,Plan Vida Integral,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,No Aplica
+1614,Seguro De Responsabilidad Civil Portuaria,013,Responsabilidad Civil,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1636,Cartera Seguro De Pension,193,Seguro De Pension,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Pension,Pension,No Aplica
+1640,Cartera Navegacion,021,Navegacion,Se renueva,PYF,Soluciones de EPS Sura,Sura,Navegacion,Navegacion,No Aplica
+1700,Cartera SALUD PARA MASCOTAS,190,SALUD PARA MASCOTAS,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Mascotas,Mascotas,No Aplica
+1703,Cartera Surenta,183,Surenta,Se renueva,PYF,Soluciones de EPS Sura,Sura,Vida Grupo,Vida Grupo,No Aplica
+1704,Plan Surenta Ideal Familiar,183,Surenta,Se renueva,PYF,Soluciones de EPS Sura,Sura,Vida Grupo,Vida Grupo,No Aplica
+1705,Seguro De Incendio Riesgos Nobles,030,Incendio,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Incendio,Incendio,No Aplica
+1709,Seguro De Salud A Tu Alcance Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,No Aplica
+586,Automoviles,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+980,Equipo Y Maquinaria,4S13,Maquinaria Y Equipo/Rotura Maquinaria,Se renueva,Empresariales,SBS,Sbs,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+981,Todo Riesgo Para Copropiedades (Con O Sin Areas Privadas),4S10,Copropiedades,Se renueva,Empresariales,SBS,Sbs,Copropiedad,Copropiedad,No Aplica
+636,Accidentes Personales Ocupantes Voluntarios,4S6,Accidentes Personales,Se renueva,PYF,SBS,Sbs,Accidentes Personales,Accidentes Personales,No Aplica
+423,Accidentes Personales Individual,3A20,Accidentes Personales Individual,Se renueva,PYF,Allianz,Allianz,Accidentes Personales,Accidentes Personales,No Aplica
+637,Accidentes Personales Specialty,4S6,Accidentes Personales,Se renueva,PYF,SBS,Sbs,Accidentes Personales,Accidentes Personales,No Aplica
+397,Allianz Care,3A11,Allianz Care,Se renueva,PYF,Allianz,Allianz,Salud Familiar,Salud Familiar,No Aplica
+392,Allianz Gold,3A6,Allianz Gold,Se renueva,PYF,Allianz,Allianz,Salud Familiar,Salud Familiar,No Aplica
+394,Allianz Hogar,3A8,Allianz Hogar,Se renueva,Empresariales,Allianz,Allianz,Hogar,Hogar,No Aplica
+398,"Allianz Vida, Deudores",3A12,"Allianz Vida, Deudores",Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+393,Auto Pesado,3A7,Auto Pesado,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+390,Hoy Y Manana Antig Plan G,3A4,Hoy Y Manana Antig Plan G,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+391,Mipyme,3A5,Mipyme,Se renueva,Empresariales,Allianz,Allianz,Incendio,Incendio,No Aplica
+395,Hym Vida Activa P.Uni 12,3A9,Hym Vida Activa P.Uni 12,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+396,Responsabilidad Civil,3A10,Responsabilidad Civil,Se renueva,Empresariales,Allianz,Allianz,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+403,Negocio Empresarial,3A17,Negocio Empresarial,Se renueva,Empresariales,Allianz,Allianz,Incendio,Incendio,No Aplica
+400,Transportes,3A14,Transportes,Se renueva,Empresariales,Allianz,Allianz,Transporte Mercancia,Transporte Mercancia,No Aplica
+264,Salud,4S1,Salud Individual,Se renueva,PYF,SBS,Sbs,Viajes,Viajes,No Aplica
+904,Allianz Vida Modalidad Esenciall,3A32,Allianz Vida Modalidad Esenciall,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+1090,Motocicletas,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1105,Para La Mujer,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1087,Responsabilidad Civil Extracontractual - Automoviles,8M4,Automoviles,Se renueva,PYF,MUNDIAL,Mundial,Automoviles,Automoviles,No Aplica
+1107,Trebol Basico,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1088,Poliza De Seguro Para Vehiculos Pesados De Carga,8M4,Automoviles,Se renueva,PYF,MUNDIAL,Mundial,Automoviles,Automoviles,No Aplica
+1080,Super Trebol - 118,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1081,Super Trebol - 115,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+882,Copropiedades Sbs,4S10,Copropiedades,Se renueva,Empresariales,SBS,Sbs,Copropiedad,Copropiedad,No Aplica
+405,Auto Liviano,3A19,Auto Liviano,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+387,Automoviles Individual Livianos Particulares,3A1,Automoviles Individual Livianos Particulares,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+1076,Asistencia,14E1,Asistencia Medica,Se renueva,PYF,EMERMEDICA,Emermedica,Asistencia Medica,Asistencia Medica,No Aplica
+404,Autos Clonico,3A18,Autos Clonico,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+388,Soat,3A2,Soat,Se renueva,Soat,Allianz,Allianz,Soat,Soat,No Aplica
+401,Vida Actuall,3A15,Vida Actuall,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+402,Vida Actuall Digital,3A16,Vida Actuall Digital,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+746,Vida Modalidad Especiall,3A28,Vida Modalidad Especiall,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+604,Automoviles,4S3,Automoviles,Se renueva,PYF,SBS,Sbs,Automoviles,Automoviles,No Aplica
+602,Automoviles,7P1,Automoviles,Se renueva,PYF,PREVISORA,Previsora,Automoviles,Automoviles,No Aplica
+1079,Autos,7P1,Automoviles,Se renueva,PYF,PREVISORA,Previsora,Automoviles,Automoviles,No Aplica
+587,Soat,10M2,Soat,Se renueva,Soat,MAPFRE,Mapfre,Soat,Soat,No Aplica
+603,Soat,7P2,Soat,Se renueva,Soat,PREVISORA,Previsora,Soat,Soat,No Aplica
+616,Rc Profesional,10M4,Rc Profesional,Se renueva,Empresariales,MAPFRE,Mapfre,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+639,Rc Para Miembros De Junta Directiva Y Demas Administradores,3A10,Responsabilidad Civil,Se renueva,Empresariales,Allianz,Allianz,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+641,Allianz Medicall Care,3A24,Salud,Se renueva,PYF,Allianz,Allianz,Salud Colectivo,Salud Colectivo,No Aplica
+693,Cartera Cartera,10M5,Cartera,Se renueva,Empresariales,MAPFRE,Mapfre,Cartera,Cartera,No Aplica
+622,Automoviles,4S4,Vehiculo,Se renueva,PYF,SBS,Sbs,Automoviles,Automoviles,No Aplica
+696,Cartera Cartera,3A25,Cartera,Se renueva,Empresariales,Allianz,Allianz,Cartera,Cartera,No Aplica
+618,Automoviles,3A21,Vehiculo,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+697,Cartera Cartera,4S7,Cartera,Se renueva,Empresariales,SBS,Sbs,Cartera,Cartera,No Aplica
+700,Cartera Cartera,6L1,Cartera,Se renueva,Empresariales,LA EQUIDAD SEGUROS,La Equidad,Cartera,Cartera,No Aplica
+615,Automoviles,10M3,Vehiculo,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+699,Cartera Cartera,7P3,Cartera,Se renueva,Empresariales,PREVISORA,Previsora,Cartera,Cartera,No Aplica
+702,Cartera Cartera,8M1,Cartera,Se renueva,Empresariales,MUNDIAL,Mundial,Cartera,Cartera,No Aplica
+629,Vida Individual,3A22,Vida Individual,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+630,Auto Individual,3A21,Vehiculo,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+631,"Allianz Vida, Modalidad Deudores",3A23,Vida Deudores,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+632,Autos,4S4,Vehiculo,Se renueva,PYF,SBS,Sbs,Automoviles,Automoviles,No Aplica
+635,Responsabilidad Civil Profesionales,4S5,Responsabilidad Civil Para Profesionales Medicos,Se renueva,Empresariales,SBS,Sbs,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+777,Pyme,4S8,Pyme,Se renueva,Empresariales,SBS,Sbs,Incendio,Incendio,No Aplica
+701,Soat,6L2,Soat,Se renueva,Soat,LA EQUIDAD SEGUROS,La Equidad,Soat,Soat,No Aplica
+706,Soat,8M2,Soat,Se renueva,Soat,MUNDIAL,Mundial,Soat,Soat,No Aplica
+707,Rc Hidrocarburos,3A26,Rc Hidrocarburos,Se renueva,Empresariales,Allianz,Allianz,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+776,Allianz Medicall Gold,3A24,Salud,Se renueva,PYF,Allianz,Allianz,Salud Colectivo,Salud Colectivo,No Aplica
+1095,Resp. Civil,8M3,Responsabilidad Civil Para Parqueaderos,Se renueva,PYF,MUNDIAL,Mundial,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1096,Judicial,8M3,Responsabilidad Civil Para Parqueaderos,Se renueva,PYF,MUNDIAL,Mundial,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1104,Vida Individual,10M6,Vida Individual,Se renueva,PYF,MAPFRE,Mapfre,Vida Individual,Vida Individual,No Aplica
+1106,R.C. Profesional Medicos Ind.,10M7,Responsabilidad Civil Para Profesionales Medicos,Se renueva,PYF,MAPFRE,Mapfre,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+881,Seguros De Hogarena,4S9,Hogar,Se renueva,PYF,SBS,Sbs,Hogar,Hogar,No Aplica
+818,Maquinaria Y Equipo,3A31,Maquinaria Y Equipo,Se renueva,Empresariales,Allianz,Allianz,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+778,Manejo,3A30,Manejo,Se renueva,Empresariales,Allianz,Allianz,Manejo,Manejo,No Aplica
+905,Multirriesgo,3A33,Multirriesgo,Se renueva,Empresariales,Allianz,Allianz,Incendio,Incendio,No Aplica
+906,Navegacion,3A34,Navegacion,Se renueva,Empresariales,Allianz,Allianz,Navegacion,Navegacion,No Aplica
+1085,Responsabilidad Civil Extracontractual General,8M3,Responsabilidad Civil Para Parqueaderos,Se renueva,PYF,MUNDIAL,Mundial,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+895,Salud Individual,3A24,Salud,Se renueva,PYF,Allianz,Allianz,Salud Colectivo,Salud Colectivo,No Aplica
+883,Seguro De Vida Grupo,4S11,Vida de Grupo,Se renueva,Empresariales,SBS,Sbs,Vida Grupo,Vida Grupo,No Aplica
+884,Directors & Officers,4S12,Responsabilidad Civil Directores Y Administradores,Se renueva,Empresariales,SBS,Sbs,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1292,Responsabilidad Civil Contractual,6L4,Responsabilidad Civil,Se renueva,PYF,LA EQUIDAD SEGUROS,La Equidad,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1308,Transportes,20C2,Transporte,Se renueva,PYF,CHUBB,Chubb,Transporte Mercancia,Transporte Mercancia,No Aplica
+1320,Irf,3A36,Irf,Se renueva,PYF,Allianz,Allianz,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1101,Autoplus Individual Full,6L3,Automoviles,Se renueva,PYF,LA EQUIDAD SEGUROS,La Equidad,Automoviles,Automoviles,No Aplica
+1102,Autoplus,6L3,Automoviles,Se renueva,PYF,LA EQUIDAD SEGUROS,La Equidad,Automoviles,Automoviles,No Aplica
+1123,Medicina Prepagada,15C1,Medicina Prepagada,Se renueva,PYF,COOMEVA,Coomeva,Medicina Prepagada,Medicina Prepagada,No Aplica
+1124,Responsabilidad Civil,20C1,Responsabilidad Civil,Se renueva,PYF,CHUBB,Chubb,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1125,Responsabilidad Civil Extracontractual,21C1,Responsabilidad Civil,Se renueva,PYF,CONFIANZA,Confianza,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1128,R. Civil. Extracontratual M. Extranjera,21C1,Responsabilidad Civil,Se renueva,PYF,CONFIANZA,Confianza,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1129,Responsabilidad Civil Profesiones Medicas,21C3,Responsabilidad Civil Para Profesionales Medicos,Se renueva,PYF,CONFIANZA,Confianza,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1131,Copropiedad,16B1,Copropiedades,Se renueva,PYF,BBVA,Bbva,Copropiedad,Copropiedad,No Aplica
+1132,Rot. Maq,16B2,Maquinaria Y Equipo/Rotura Maquinaria,Se renueva,PYF,BBVA,Bbva,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+1133,Vida Individual,23S1,Vida Individual,Se renueva,PYF,SKANDIA,Skandia,Vida Individual,Vida Individual,No Aplica
+1134,Asistencia,1741,Asistencia Medica,Se renueva,PYF,48 HOORAS,48 Hooras,Asistencia Medica,Asistencia Medica,No Aplica
+1135,Viajes Y Turismo,18A1,Viajes/Turismo,Se renueva,PYF,ASSIST CARD,Assist Card,Asistencia Medica,Asistencia Medica,No Aplica
+1138,Vehiculos Livianos De Servicio Particular,13Z1,Automoviles,Se renueva,PYF,ZURICH,Zurich,Automoviles,Automoviles,No Aplica
+1139,Responsabilidad Civil Para Directivos Y Administradores,13Z2,Responsabilidad Civil Directores Y Administradores,Se renueva,PYF,ZURICH,Zurich,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+399,Hoy Y Manana Antig Plan H,3A13,Hoy Y Manana Antig Plan H,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+265,Soat,4S2,Soat,Se renueva,Soat,SBS,Sbs,Soat,Soat,No Aplica
+1451,Soat,13Z4,Soat,Se renueva,PYF,ZURICH,Zurich,Soat,Soat,No Aplica
+1536,Autos Plus,3A18,Autos Clonico,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+1537,Esencial + Totales,3A18,Autos Clonico,Se renueva,PYF,Allianz,Allianz,Automoviles,Automoviles,No Aplica
+1539,Moto Full,4S14,Autos,Se renueva,PYF,SBS,Sbs,Automoviles,Automoviles,No Aplica
+1335,Autos,10M8,Autos,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1140,Copropiedades,13Z3,Copropiedades,Se renueva,PYF,ZURICH,Zurich,Copropiedad,Copropiedad,No Aplica
+1141,Pyme,16B3,Pyme,Se renueva,PYF,BBVA,Bbva,Incendio,Incendio,No Aplica
+1166,Responsabilidad Civil,7P5,Responsabilidad Civil,Se renueva,PYF,PREVISORA,Previsora,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1398,Seguro Areas Comunes Poliza Multiriesgo,7P6,Copropiedades,Se renueva,PYF,PREVISORA,Previsora,Copropiedad,Copropiedad,No Aplica
+1399,Copropiedades,20C3,Copropiedades,Se renueva,PYF,CHUBB,Chubb,Copropiedad,Copropiedad,No Aplica
+1400,Grupo Accidentes Personales,10M9,Accidentes Personales,Se renueva,PYF,MAPFRE,Mapfre,Accidentes Personales,Accidentes Personales,No Aplica
+1401,Para La Familia,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1403,Vehiculos Utilitarios,6L3,Automoviles,Se renueva,PYF,LA EQUIDAD SEGUROS,La Equidad,Automoviles,Automoviles,No Aplica
+1404,Arrendamiento,8M6,Arrendamiento,Se renueva,PYF,MUNDIAL,Mundial,Arrendamiento,Arrendamiento,No Aplica
+1405,Cumplimiento En Favor De Entidades Particulares,20C4,Cumplimiento,Se renueva,PYF,CHUBB,Chubb,Cumplimiento,Cumplimiento,No Aplica
+1407,Seguro De Maquinaria Y Equipo De Contratistas,16B2,Maquinaria Y Equipo/Rotura Maquinaria,Se renueva,PYF,BBVA,Bbva,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+1408,Super Trebol - 117,10M1,Automoviles,Se renueva,PYF,MAPFRE,Mapfre,Automoviles,Automoviles,No Aplica
+1429,Copropiedades,10M10,Copropiedades,Se renueva,PYF,MAPFRE,Mapfre,Copropiedad,Copropiedad,No Aplica
+1430,Hogar Express,4S9,Hogar,Se renueva,PYF,SBS,Sbs,Hogar,Hogar,No Aplica
+1437,Commercial Plus General,4S8,Pyme,Se renueva,Empresariales,SBS,Sbs,Incendio,Incendio,No Aplica
+1442,Pyme,3A37,Pyme,Se renueva,PYF,Allianz,Allianz,Incendio,Incendio,No Aplica
+1443,Vitallianz,3A38,Vitallianz,Se renueva,PYF,Allianz,Allianz,Salud Familiar,Salud Familiar,No Aplica
+1446,Hogar,10M11,Hogar,Se renueva,PYF,MAPFRE,Mapfre,Hogar,Hogar,No Aplica
+1452,Todo Riesgo Pyme Integral,10M12,Pyme,Se renueva,PYF,MAPFRE,Mapfre,Incendio,Incendio,No Aplica
+1531,Autos,8M10,Autos,Se renueva,PYF,MUNDIAL,Mundial,Automoviles,Automoviles,No Aplica
+1464,Poliza De Salud,3A24,Salud,Se renueva,PYF,Allianz,Allianz,Salud Colectivo,Salud Colectivo,No Aplica
+1465,Vida Grupo No Contributivo,3A39,Vida de Grupo,Se renueva,PYF,Allianz,Allianz,Vida Grupo,Vida Grupo,No Aplica
+1466,Vida Grupo Deudores,3A39,Vida de Grupo,Se renueva,PYF,Allianz,Allianz,Vida Grupo,Vida Grupo,No Aplica
+1467,Hogar Individual,3A8,Allianz Hogar,Se renueva,Empresariales,Allianz,Allianz,Hogar,Hogar,No Aplica
+1468,Vida Deudores,3A23,Vida Deudores,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+1469,Responsabilidad Civil D&A,4S5,Responsabilidad Civil Para Profesionales Medicos,Se renueva,Empresariales,SBS,Sbs,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1471,P.Ideal Vida Invers. Pivi,3A40,P.Ideal Vida Invers. Pivi,Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,No Aplica
+1478,Responsabilidad Civil D&A,8M3,Responsabilidad Civil Para Parqueaderos,Se renueva,PYF,MUNDIAL,Mundial,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1479,Caucion,8M5,Cumplimiento,Se renueva,PYF,MUNDIAL,Mundial,Cumplimiento,Cumplimiento,No Aplica
+1480,Seriedad,8M5,Cumplimiento,Se renueva,PYF,MUNDIAL,Mundial,Cumplimiento,Cumplimiento,No Aplica
+1481,Disposicion Legal,8M5,Cumplimiento,Se renueva,PYF,MUNDIAL,Mundial,Cumplimiento,Cumplimiento,No Aplica
+1482,Accidentes Personales,8M7,Accidentes Personales,Se renueva,PYF,MUNDIAL,Mundial,Accidentes Personales,Accidentes Personales,No Aplica
+1483,Todo Riesgo Construccion,8M8,Todo Riesgo Construccion,Se renueva,PYF,MUNDIAL,Mundial,Incendio,Incendio,No Aplica
+1484,Rce (Ligada A Trc),8M3,Responsabilidad Civil Para Parqueaderos,Se renueva,PYF,MUNDIAL,Mundial,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1485,Rc Automoviles,8M4,Automoviles,Se renueva,PYF,MUNDIAL,Mundial,Automoviles,Automoviles,No Aplica
+1486,Rotura De Maquinaria,8M9,Maquinaria Y Equipo/Rotura Maquinaria,Se renueva,PYF,MUNDIAL,Mundial,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+1488,Responsabilidad Civil Profesional,10M7,Responsabilidad Civil Para Profesionales Medicos,Se renueva,PYF,MAPFRE,Mapfre,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1489,Dano Material,10M13,Multiriesgo,Se renueva,PYF,MAPFRE,Mapfre,Incendio,Incendio,No Aplica
+1490,Rce (Dano Material),10M7,Responsabilidad Civil Para Profesionales Medicos,Se renueva,PYF,MAPFRE,Mapfre,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1491,Flexiahorro,10M6,Vida Individual,Se renueva,PYF,MAPFRE,Mapfre,Vida Individual,Vida Individual,No Aplica
+1499,Cumplimiento,13Z5,Cumplimiento,Se renueva,PYF,ZURICH,Zurich,Cumplimiento,Cumplimiento,No Aplica
+1500,Dano Material,13Z6,Multiriesgo,Se renueva,PYF,ZURICH,Zurich,Incendio,Incendio,No Aplica
+1501,Emergencia Medica,15C2,Asistencia Medica,Se renueva,PYF,COOMEVA,Coomeva,Asistencia Medica,Asistencia Medica,No Aplica
+1502,Accidente En Viaje,18A2,Accidentes Personales,Se renueva,PYF,ASSIST CARD,Assist Card,Accidentes Personales,Accidentes Personales,No Aplica
+1503,Rce (Ligada A Cumplimiento),20C1,Responsabilidad Civil,Se renueva,PYF,CHUBB,Chubb,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1504,Accidentes Personales,20C5,Accidentes Personales,Se renueva,PYF,CHUBB,Chubb,Accidentes Personales,Accidentes Personales,No Aplica
+1505,Seriedad,20C4,Cumplimiento,Se renueva,PYF,CHUBB,Chubb,Cumplimiento,Cumplimiento,No Aplica
+1506,Dano Material,20C6,Multiriesgo,Se renueva,PYF,CHUBB,Chubb,Incendio,Incendio,No Aplica
+1619,Hogar Col.Deudores,3A45,Hogar Col.Deudores,Se renueva,PYF,Allianz,Allianz,Hogar,Hogar,No Aplica
+1521,Todo Riesgo Construccion,16B4,Todo Riesgo Construccion,Se renueva,PYF,BBVA,Bbva,Incendio,Incendio,No Aplica
+1523,Allianz Plus Pesos,3A41,Allianz Plus Pesos,Se renueva,PYF,Allianz,Allianz,Salud Familiar,Salud Familiar,No Aplica
+1630,Automoviles,13Z1,Automoviles,Se renueva,PYF,ZURICH,Zurich,Automoviles,Automoviles,No Aplica
+1540,Full,4S14,Autos,Se renueva,PYF,SBS,Sbs,Automoviles,Automoviles,No Aplica
+1549,Autos,16B5,Automoviles,Se renueva,PYF,BBVA,Bbva,Automoviles,Automoviles,No Aplica
+1641,Seguro De Construccion,8M8,Todo Riesgo Construccion,Se renueva,PYF,MUNDIAL,Mundial,Incendio,Incendio,No Aplica
+1642,Nueva Poliza Sbs,4S14,Autos,Se renueva,PYF,SBS,Sbs,Automoviles,Automoviles,No Aplica
+1643,Nueva Poliza Mundial,8M10,Autos,Se renueva,PYF,MUNDIAL,Mundial,Automoviles,Automoviles,No Aplica
+1557,Dano Material,3A42,Multiriesgo,Se renueva,PYF,Allianz,Allianz,Incendio,Incendio,No Aplica
+1706,Aviacion,3A46,Aviacion,Se renueva,PYF,Allianz,Allianz,,Aviacion,No Aplica
+1707,Hym Clasico,3A47,Hym Clasico,Se renueva,PYF,Allianz,Allianz,,Hym Clasico,No Aplica
+1710,Rce (Ligada A Trc),20C1,Responsabilidad Civil,Se renueva,PYF,CHUBB,Chubb,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1234,Transportes Automatica Mercancia O Valores,2B15,Transportes,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Transporte Mercancia,Transporte Mercancia,No Aplica
+1229,Nuevo Producto Automoviles,2B1,Automoviles,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Automoviles,Automoviles,No Aplica
+1226,Hogar Para Disfrutar,2B23,Hogar,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Hogar,Hogar,No Aplica
+1278,Celelares Proteccion Inteligente,2B23,Hogar,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Hogar,Hogar,No Aplica
+804,Acc. Escolares,5S27,Acc. Escolares,Se renueva,PYF,Solidaria,Solidaria,Accidentes Personales,Accidentes Personales,No Aplica
+286,Acc. Personales,5S6,Acc. Personales,Se renueva,PYF,Solidaria,Solidaria,Accidentes Personales,Accidentes Personales,No Aplica
+599,Accidentes E,12S3,Accidentes E,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Juvenil,Juvenil,No Aplica
+1233,Proteccion De Creditos Individual,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1230,Administradora De Riesgos Laborales,2B70,Administradora De Riesgos Prof,Se renueva,Arl,Compañía de Seguros Bolívar S.A.,Bolivar,Arl,Arl,No Aplica
+1225,Essential Select,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+1231,Seguro Colectivo De Vida Grupo,2B29,Grupo - Plan Nivelado,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Grupo,Vida Grupo,No Aplica
+1232,E-Pymes,2B66,Multirriesgo Industrial,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1227,Todo Riesgo Construccion,2B14,Todo Riesgo,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1228,Responsabilidad Civil,2B10,Responsabilidad Civil,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+597,Automoviles,12S1,Automoviles,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Automoviles,Automoviles,No Aplica
+972,Tran. Au Mercancias,5S32,Tran. Au Mercancias,Se renueva,PYF,Solidaria,Solidaria,Transporte Mercancia,Transporte Mercancia,No Aplica
+982,Seguro De Responsabilidad Civil Profesional Medica,5S26,Responsabilidad Civil,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+620,Accidentes E,5S22,Accidentes E,Se renueva,PYF,Solidaria,Solidaria,Juvenil,Juvenil,No Aplica
+1259,Clase Feliz,2B26,Accidentes Escolares,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Juvenil,Juvenil,No Aplica
+1236,Salud Integral,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+1260,Clase U,2B26,Accidentes Escolares,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Juvenil,Juvenil,No Aplica
+1235,Medica Familiar Empresarial,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+165,Soat,B310,Soat,Se renueva,Soat,Compañía de Seguros Bolívar S.A.,Bolivar,Soat,Soat,No Aplica
+1109,Accidentes Personales Eventos,12S10,Accidentes Personales,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Accidentes Personales,Accidentes Personales,No Aplica
+1110,Accidentes Personales Integral Estudiantil,12S10,Accidentes Personales,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Accidentes Personales,Accidentes Personales,No Aplica
+1296,Accidentes Personales,9H9,Accidentes Personales,Se renueva,PYF,HDI,Hdi,Accidentes Personales,Accidentes Personales,No Aplica
+1245,Vida Individual Generos,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1262,Vida Con Opcion Ahorro Y Pensiones,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1266,Vida Individual Conversion Pesos,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1268,Vida Individual Conversion Generos,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1270,Seguro De Vida Inversion,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1258,Viva Bolivar,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1269,Seguro De Vida Integral,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1257,Vida Creciente Con Participacion De Utilidades,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1265,Vida Preferente Pesos,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1264,Vida Individual Pesos,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1638,Seguro Tranquilidad Hijos,2B118,Accidentes Personales Individ.,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Accidentes Personales,Accidentes Personales,No Aplica
+1271,Seguro Tranquilidad Vida Activa,2B118,Accidentes Personales Individ.,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Accidentes Personales,Accidentes Personales,No Aplica
+1242,Bienestar Y Salud Para Disfrutar,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+1246,"Universal Medical Care Bolivar ""Plus""",2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+1248,Premier Elite Ultimate,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+1249,Medica Familiar Bolivar,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,No Aplica
+1239,Multirriesgo Empresarial,2B66,Multirriesgo Industrial,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1243,Multirriesgo Integral Industria Y Comercio,2B66,Multirriesgo Industrial,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1250,Equipo Y Maquinaria De Contratistas,2B14,Todo Riesgo,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1237,Incendio Tradicional,2B5,Incendio,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1238,All Risk,2B5,Incendio,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1240,Rc Medicos / Odontologos,2B10,Responsabilidad Civil,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+298,Arrendamiento,5S18,Arrendamiento,Se renueva,Empresariales,Solidaria,Solidaria,Arrendamiento,Arrendamiento,No Aplica
+290,Automoviles  Publico,5S10,Automoviles  Publico,Se renueva,PYF,Solidaria,Solidaria,Automoviles,Automoviles,No Aplica
+281,Automoviles Partic,5S1,Automoviles Partic,Se renueva,PYF,Solidaria,Solidaria,Automoviles,Automoviles,No Aplica
+296,Automoviles Publico,5S16,Automoviles Publico,Se renueva,PYF,Solidaria,Solidaria,Automoviles,Automoviles,No Aplica
+773,Responsabilidad Civil Extracontractual,5S26,Responsabilidad Civil,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+886,Responsabilidadcivil Directores,5S26,Responsabilidad Civil,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+913,Responsabilidad Civil General,5S26,Responsabilidad Civil,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+300,Judicial,5S20,Judicial,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,No Aplica
+297,Manejo Sector Of.,5S17,Manejo Sector Of.,Se renueva,Empresariales,Solidaria,Solidaria,Manejo,Manejo,No Aplica
+288,R C Medica,5S8,R C Medica,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+285,Rc Clinicas,5S5,Rc Clinicas,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+299,Rc Servidores Public,5S19,Rc Servidores Public,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+294,Resp Civil Ext Gral,5S14,Resp Civil Ext Gral,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+293,Resp Civil Ext Patri,5S13,Resp Civil Ext Patri,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+282,Todo Riesgo M Y E,5S2,Todo Riesgo M Y E,Se renueva,Empresariales,Solidaria,Solidaria,Incendio,Incendio,No Aplica
+283,Vida Grupo Deudores,5S3,Vida Grupo Deudores,Se renueva,Empresariales,Solidaria,Solidaria,Vida Grupo,Vida Grupo,No Aplica
+287,Tr Danos Mat Estatal,5S7,Tr Danos Mat Estatal,Se renueva,Empresariales,Solidaria,Solidaria,Incendio,Incendio,No Aplica
+289,Solihogar,5S9,Solihogar,Se renueva,PYF,Solidaria,Solidaria,Hogar,Hogar,No Aplica
+295,Solipyme,5S15,Solipyme,Se renueva,Empresariales,Solidaria,Solidaria,Incendio,Incendio,No Aplica
+1599,Au Cupos Exce Moto Esencial Renovacion,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+605,Automoviles,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+1077,Autos,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+1244,Vida Conjunto Generos,2B48,Vida Conjunto,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+472,Fosyga,B310,Soat,No se Renueva,Soat,Compañía de Seguros Bolívar S.A.,Bolivar,Soat,Soat,No Aplica
+1251,Decenal,2B81,Decenal,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1261,Manejo Global Comercial Para Empleados Particulares,2B7,Manejo,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Manejo,Manejo,No Aplica
+593,Automoviles,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1092,Pesados Individual,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1073,Alta Gama,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1074,Motos,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1075,Total Car,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1263,Vida Conjunto Pesos,2B48,Vida Conjunto,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1267,Embarcaciones,2B9,Navegacion,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Navegacion,Navegacion,No Aplica
+1252,Equipo Electronico,2B3,Corriente Debil,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+540,Runt,B310,Soat,Se renueva,Soat,Compañía de Seguros Bolívar S.A.,Bolivar,Soat,Soat,No Aplica
+592,Hogar,9H1,Hogar,Se renueva,PYF,HDI,Hdi,Hogar,Hogar,No Aplica
+594,Soat,9H3,Soat,Se renueva,Soat,HDI,Hdi,Soat,Soat,No Aplica
+656,Soli Particular Familiar,5S1,Automoviles Partic,Se renueva,PYF,Solidaria,Solidaria,Automoviles,Automoviles,No Aplica
+598,Copropiedad,12S2,Copropiedad,Se renueva,Empresariales,SEGUROS DEL ESTADO S.A.,S Estado,Copropiedad,Copropiedad,No Aplica
+600,Soat,12S4,Soat,Se renueva,Soat,SEGUROS DEL ESTADO S.A.,S Estado,Soat,Soat,No Aplica
+601,Soat,5S21,Soat,Se renueva,Soat,Solidaria,Solidaria,Soat,Soat,No Aplica
+640,Autos,5S23,Autos/Vehiculos,Se renueva,PYF,Solidaria,Solidaria,Automoviles,Automoviles,No Aplica
+694,Cartera Cartera,11C3,Cartera,Se renueva,Empresariales,COLPATRIA,Colpatria,Cartera,Cartera,No Aplica
+695,Cartera Cartera,12S6,Cartera,Se renueva,Empresariales,SEGUROS DEL ESTADO S.A.,S Estado,Cartera,Cartera,No Aplica
+698,Cartera Cartera,5S24,Cartera,Se renueva,Empresariales,Solidaria,Solidaria,Cartera,Cartera,No Aplica
+619,Automoviles,12S5,Vehiculo,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Automoviles,Automoviles,No Aplica
+617,Automoviles,9H4,Vehiculo,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+703,Cartera Cartera,9H5,Cartera,Se renueva,Empresariales,HDI,Hdi,Cartera,Cartera,No Aplica
+1093,Copropiedad,11C5,Copropiedades,Se renueva,PYF,COLPATRIA,Colpatria,Copropiedad,Copropiedad,No Aplica
+1091,Responsabilidad Civil - Lb - Respons.Civil Extracontractual,9H7,Responsabilidad Civil,Se renueva,PYF,HDI,Hdi,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1097,Rc Profesional Para Profesionales Del Sector Salud,9H7,Responsabilidad Civil,Se renueva,PYF,HDI,Hdi,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+606,Soat,11C2,Soat,Se renueva,Soat,COLPATRIA,Colpatria,Soat,Soat,No Aplica
+1072,Total Home,9H1,Hogar,Se renueva,PYF,HDI,Hdi,Hogar,Hogar,No Aplica
+856,Incendio,5S31,Incendio,Se renueva,Empresariales,Solidaria,Solidaria,Incendio,Incendio,No Aplica
+1275,Titulos De Capitalizacion,2B119,Titulo Capitalizacion,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1277,Multiriesgo Industrial Y/O Tranquilidad Pymes,2B121,Pyme,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1276,Vida Individual Proteccion De Creditos,2B120,Vida Deudores,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1068,Responsabilidad Cilil Extracontractual Contratos,12S7,Responsabilidad Civil,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1071,Responsabilidad Civil Extracontractual,12S7,Responsabilidad Civil,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+834,Manejo Comercial,5S29,Manejo Comercial,Se renueva,Empresariales,Solidaria,Solidaria,Manejo,Manejo,No Aplica
+1078,Medicina Prepagada,11C4,Medicina Prepagada,Se renueva,PYF,COLPATRIA,Colpatria,Medicina Prepagada,Medicina Prepagada,No Aplica
+1083,Resposabilidad Civil Contractual Pasajeros,12S7,Responsabilidad Civil,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+827,Solicopropiedades,5S28,Solicopropiedades,Se renueva,Empresariales,Solidaria,Solidaria,Soat,Soat,No Aplica
+835,Resp Civil Direc,5S30,Resp Civil Direc,Se renueva,Empresariales,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1070,Responsabilidad Civil,12S7,Responsabilidad Civil,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1309,Pym Pyme,9H10,Pyme,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1086,Todo Riesgo Equipo Y Maquinaria,12S9,Maquinaria Y Equipo/Rotura Maquinaria,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+1089,Transportes,9H6,Transporte,Se renueva,PYF,HDI,Hdi,Transporte Mercancia,Transporte Mercancia,No Aplica
+1307,Mas Hogar Bolivar,2B23,Hogar,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Hogar,Hogar,No Aplica
+1121,Accidentes Personales,22M1,Accidentes Personales,Se renueva,PYF,METLIFE,Metlife,Accidentes Personales,Accidentes Personales,No Aplica
+1122,Vida Individual,22M2,Vida Individual,Se renueva,PYF,METLIFE,Metlife,Vida Individual,Vida Individual,No Aplica
+1535,Axa,11C12,Autos,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+1336,Autos,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1273,Accidentes Personales,2B30,Accidentes Personales,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Accidentes Personales,Accidentes Personales,No Aplica
+1341,Resp. Civil Prof.,5S34,Resp. Civil Prof.,Se renueva,PYF,Solidaria,Solidaria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1293,Administradora De Riesgos Profesionales/Laborales,2B122,Arl,Se renueva,Arl,Compañía de Seguros Bolívar S.A.,Bolivar,Arl,Arl,No Aplica
+1294,Vida Pesos Pago Permanente,2B47,Vida Individual,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Individual,Vida Individual,No Aplica
+1343,Manejo Particular,5S35,Manejo Particular,Se renueva,PYF,Solidaria,Solidaria,Manejo,Manejo,No Aplica
+1247,Transportes Especifica Mercancias O Semovientes,2B15,Transportes,No se Renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Transporte Mercancia,Transporte Mercancia,No Aplica
+1379,Hog Trad 2017,11C6,Hogar,Se renueva,PYF,COLPATRIA,Colpatria,Hogar,Hogar,No Aplica
+1384,Grupo Tradicional,2B32,Grupo Tradicional,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Grupo,Vida Grupo,No Aplica
+1385,Grupo Tradicional Blanket,2B29,Grupo - Plan Nivelado,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Vida Grupo,Vida Grupo,No Aplica
+1388,My Car,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1402,Accidentes Personales,5S36,Accidentes Personales,Se renueva,PYF,Solidaria,Solidaria,Accidentes Personales,Accidentes Personales,No Aplica
+1406,Pyme,11C7,Pyme,Se renueva,PYF,COLPATRIA,Colpatria,Incendio,Incendio,No Aplica
+1417,Total Auto Hdi,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1418,Taxis Individual Hdi,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1419,Pym- Pyme Multiriesgo,9H12,Generales,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1420,Pyme Multiriesgo Hdi,9H12,Generales,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1421,Rc Individual,9H7,Responsabilidad Civil,Se renueva,PYF,HDI,Hdi,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1422,Ti - Taxis Individual,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1423,Pm - Modular,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1428,Bienes Comunes,9H10,Pyme,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1432,Vida Deudores Hdi,9H13,Vida Grupo,Se renueva,PYF,HDI,Hdi,Vida Grupo,Vida Grupo,No Aplica
+1434,Vida Grupo Contributivo Hdi,9H13,Vida Grupo,Se renueva,PYF,HDI,Hdi,Vida Grupo,Vida Grupo,No Aplica
+1435,Pym - Pyme,9H12,Generales,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1436,Vida Grupo No Contributivo Hdi,9H13,Vida Grupo,Se renueva,PYF,HDI,Hdi,Vida Grupo,Vida Grupo,No Aplica
+1438,Copropiedades (Areas Comunes Y Privadas),9H14,Copropiedades,Se renueva,PYF,HDI,Hdi,Copropiedad,Copropiedad,No Aplica
+1450,Todo Riesgo Cont.,5S37,Todo Riesgo Cont.,Se renueva,PYF,Solidaria,Solidaria,Incendio,Incendio,No Aplica
+1602,Au Cupos De Excepcion,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+1603,Todo Riesgo Montaje,2B8,Rotura De Maquinaria,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1604,Original Plus,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,No Aplica
+1605,Plan Ambulatorio,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,No Aplica
+1459,Dano Material,2B123,Multiriesgo,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Montaje,Montaje,No Aplica
+1460,Rce (Ligada A Cumplimiento),2B10,Responsabilidad Civil,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1461,Multirriesgo Pymes,2B123,Multiriesgo,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Montaje,Montaje,No Aplica
+1463,Seriedad,2B4,Cumplimiento,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,No Aplica
+1470,Seriedad,5S25,Cumplimiento,Se renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,No Aplica
+1606,Dental Vip,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,No Aplica
+1607,Au Esencial Nvo,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+1608,Multiriesgo Pymes,2B66,Multirriesgo Industrial,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,No Aplica
+1487,Dano Material,9H15,Multiriesgo,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1492,Responsabilidad Civil Extracontractual,11C8,Responsabilidad Civil,Se renueva,PYF,COLPATRIA,Colpatria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1493,Cumplimiento,11C9,Cumplimiento,Se renueva,PYF,COLPATRIA,Colpatria,Cumplimiento,Cumplimiento,No Aplica
+1494,Rce (Ligada A Cumplimiento),11C8,Responsabilidad Civil,Se renueva,PYF,COLPATRIA,Colpatria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1495,Seriedad,11C9,Cumplimiento,Se renueva,PYF,COLPATRIA,Colpatria,Cumplimiento,Cumplimiento,No Aplica
+1496,Rce (Ligada A Cumplimiento),12S7,Responsabilidad Civil,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1498,Seriedad,12S8,Cumplimiento,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Cumplimiento,Cumplimiento,No Aplica
+1508,Vida Grupo,22M3,Vida de Grupo,Se renueva,PYF,METLIFE,Metlife,Vida Grupo,Vida Grupo,No Aplica
+1519,Todo Riego Trme,5S38,Maquinaria Y Equipo/Rotura Maquinaria,Se renueva,PYF,Solidaria,Solidaria,Maquinaria Y Equipo,Maquinaria Y Equipo,No Aplica
+1520,Infidelidad Riesgos Financieros,12S7,Responsabilidad Civil,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1622,Navegacion Y Casco,5S40,Navegacion Y Casco,Se renueva,PYF,Solidaria,Solidaria,Navegacion,Navegacion,No Aplica
+1527,Salud,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,No Aplica
+1528,Respons. Civil,11C11,Respons. Civil,Se renueva,PYF,COLPATRIA,Colpatria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1541,Premium,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1542,Full,12S11,Autos,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Automoviles,Automoviles,No Aplica
+1543,Exequias Individual Hdi,9H16,Exequias,Se renueva,PYF,HDI,Hdi,Exequial,Exequial,No Aplica
+1637,Autos,12S11,Autos,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Automoviles,Automoviles,No Aplica
+1545,Seguro Del Hogar,5S9,Solihogar,Se renueva,PYF,Solidaria,Solidaria,Hogar,Hogar,No Aplica
+1546,Global Home,9H1,Hogar,Se renueva,PYF,HDI,Hdi,Hogar,Hogar,No Aplica
+1547,Vida Grupo Familiar Para Gastos Emergentes,12S12,Vida de Grupo,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Vida Grupo,Vida Grupo,No Aplica
+1548,Hogar,12S13,Hogar,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Hogar,Hogar,No Aplica
+1553,Vida Individual,11C13,Vida Individual,Se renueva,PYF,COLPATRIA,Colpatria,Vida Individual,Vida Individual,No Aplica
+1554,Multiriesgo,11C14,Multiriesgo,Se renueva,PYF,COLPATRIA,Colpatria,Incendio,Incendio,No Aplica
+1644,Nueva Poliza Hdi,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1532,Auto,9H11,Autos,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,No Aplica
+1583,Vida A Mi Medida Uvr,11C13,Vida Individual,Se renueva,PYF,COLPATRIA,Colpatria,Vida Individual,Vida Individual,No Aplica
+1584,Producto Generico Sise3G,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,No Aplica
+1585,Alterno Plus,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,No Aplica
+1586,Hogar Trad 2019,11C14,Multiriesgo,Se renueva,PYF,COLPATRIA,Colpatria,Incendio,Incendio,No Aplica
+1587,Responsabilidad Civil Profesional,11C11,Respons. Civil,Se renueva,PYF,COLPATRIA,Colpatria,Responsabilidad Civil,Responsabilidad Civil,No Aplica
+1592,Cambio Sura A Axa,9H17,40,Se renueva,PYF,HDI,Hdi,,40,No Aplica
+1701,Pyme - Liberty Proteccion Empresarial,9H10,Pyme,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,No Aplica
+1702,Seguro Agricola De Rendimiento Y Ajuste En Cosecha,2B39,Seguro Agricola,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Agricola,Agricola,No Aplica
+1708,Acc. Personales Colectivo Nominado,9H9,Accidentes Personales,Se renueva,PYF,HDI,Hdi,Accidentes Personales,Accidentes Personales,No Aplica
+A1,Otros Productos,A1,Otros,No se Renueva,PYF,Otros,Otros,,Otros,No Aplica
+A2,Impuestos,A2,Impuestos,No se Renueva,PYF,Otros,Otros,,Impuestos,No Aplica
+747,Accdtes.Colectivos,3A29,Accdtes.Colectivos,Se renueva,Empresariales,Allianz,Allianz,Accidentes Personales,Accidentes Personales,Colectivos
+1018,Accidentes Colectivo,3A35,Accidentes Colectivo,Se renueva,Empresariales,Allianz,Allianz,Accidentes Personales,Accidentes Personales,Colectivos
+15,Plan Crédito Protegido,081,Vida Individual,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Vida Individual,Vida Individual,Onerosos
+24,Seguro De Cumplimiento Para Contratos De Arrendamiento,012,Cumplimiento,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+90,Seguro De Cumplimiento Para Contratos De Arrendamiento Colectivo,012,Cumplimiento,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+261,Cartera Construcción,034,Construcción,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Construcción,Construcción,"Cumplimiento,Construcion y RC Derivadas"
+12,Plan Salud Clásico Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+13,Plan Salud Global Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+14,Renta Pensional Suramericana,193,Seguro De Pension,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Pension,Pension,Rentas
+16,Plan Juvenil Colectivo,085,Juvenil,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Juvenil,Juvenil,Colectivos
+5,Plan Accidentes Personales - Colectivo,084,Accidentes Personales,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Accidentes Personales,Accidentes Personales,Colectivos
+95,Plan Salud Evoluciona Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+121,Plan Salud Para Todos Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+166,Cartera Salud Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+389,Auto Colectivo,3A3,Auto Colectivo,Se renueva,Empresariales,Allianz,Allianz,Automoviles,Automoviles,Colectivos
+116,Cartera Plan Complementario Colectivo,114,Plan Complementario Colectivo,Se renueva,Empresariales,Soluciones de EPS Sura,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+201,Salud Para Dos Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+204,Seguro De Exequias Colectivo,086,Exequial,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Exequial,Exequial,Colectivos
+122,Plan Vida Deudores,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+351,Plan Vida Deudores Integral,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+210,Plan Vida Convencion Uso,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+638,Hogar Colectivo,3A8,Allianz Hogar,Se renueva,Empresariales,Allianz,Allianz,Hogar,Hogar,Colectivos
+284,Cump. Disp. Legales,5S4,Cump. Disp. Legales,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+292,Cump. Ent. Estatales,5S12,Cump. Ent. Estatales,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+291,Cump. Particular,5S11,Cump. Particular,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+327,Seguro Arriendo Digital,012,Cumplimiento,Se renueva,Empresariales,Soluciones de Seguros Generales,Sura,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+2,Seguro de Cumplimiento,012,Cumplimiento,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+4,Seguro de Construcción,034,Construcción,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Construcción,Construcción,"Cumplimiento,Construcion y RC Derivadas"
+655,Automoviles-Colectivo-Mensual,040,Automoviles,Se renueva,PYF,Soluciones de Seguros Generales,Sura,Automoviles,Automoviles,Colectivos
+1039,Pilotos,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+1256,Disposiciones Legales,2B4,Cumplimiento,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1253,Grandes Beneficiarios,2B4,Cumplimiento,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+772,Cumplimiento Particular,5S25,Cumplimiento,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+774,Cumplimiento Estatal,5S25,Cumplimiento,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+775,Cumplimiento De Disposiciones Legales,5S25,Cumplimiento,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+848,Plan Vida Clasico No Contributivo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+35,Pes Para Sus Empleados Y Familias Contributivo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+36,Plan Vida Integral No Contributivo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+37,Plan Vida Integral Contributivo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+38,Plan Empresario Sura Para Tus Empleados Y Sus Familias No Contributivo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+41,Pes Para Sus Empleados Y Familias Contributivo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+50,Cartera Vida de Grupo,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+708,Vida Colectivo,3A27,Vida Colectivo,Se renueva,Empresariales,Allianz,Allianz,Vida Grupo,Vida Grupo,Colectivos
+1082,Cumplimiento Entidad Estatal,12S8,Cumplimiento,No se Renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1069,Cumplimiento Particular,12S8,Cumplimiento,No se Renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1254,Cumplimiento A Favor De Entidades Estatales,2B4,Cumplimiento,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1291,Cumplimiento Entidades Oficiales,2B4,Cumplimiento,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1108,Cumplimiento,7P4,Cumplimiento,No se Renueva,PYF,PREVISORA,Previsora,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1094,Cumplimiento,8M5,Cumplimiento,No se Renueva,PYF,MUNDIAL,Mundial,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1099,Cumplimiento,9H8,Cumplimiento,No se Renueva,PYF,HDI,Hdi,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+34,Renta Educativa Sura,196,Seguro de Educacion,Se renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Educacion,Educacion,Rentas
+1313,Plan Vida Docentes,083,Vida de Grupo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Vida Grupo,Vida Grupo,Colectivos
+1137,Automoviles Colec.,5S33,Automoviles Colec.,Se renueva,PYF,Solidaria,Solidaria,Automoviles,Automoviles,Colectivos
+1272,Salud Internacional Colectiva,2B34,Salud,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Salud Familiar,Salud Familiar,Colectivos
+52,Cartera Cumplimiento,012,Cumplimiento,No se Renueva,Empresariales,Soluciones de Seguros Generales,Sura,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+60,Salud Para Todos Integral Colectivo,091,Salud Colectivo,Se renueva,Empresariales,Seguros de Vida Suramericana S.A,Sura,Salud Colectivo,Salud Colectivo,Colectivos
+1130,Cumplimiento En Favor De Entidades Estatales,21C2,Cumplimiento,No se Renueva,PYF,CONFIANZA,Confianza,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1127,Cumplimiento En Favor De Entidades Particulares,21C2,Cumplimiento,No se Renueva,PYF,CONFIANZA,Confianza,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1126,Cumplimiento Disposiciones Legales,21C2,Cumplimiento,No se Renueva,PYF,CONFIANZA,Confianza,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1136,Cumplimiento,19B1,Cumplimiento,No se Renueva,PYF,BERKLEY,Berkley,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1145,Salud Colectivo,3A24,Salud,Se renueva,PYF,Allianz,Allianz,Salud Colectivo,Salud Colectivo,Colectivos
+1160,Cartera Seguro de Educacion,196,Seguro de Educacion,No se Renueva,PYF,Seguros de Vida Suramericana S.A,Sura,Educacion,Educacion,Rentas
+1084,Disposicion Legal,12S8,Cumplimiento,No se Renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1255,Cumplimiento Caucion Judicial,2B4,Cumplimiento,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1241,Cumplimiento Particulares,2B4,Cumplimiento,No se Renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1342,Cumplimiento Disposiciones Legales,5S25,Cumplimiento,No se Renueva,Empresariales,Solidaria,Solidaria,Cumplimiento,Cumplimiento,"Cumplimiento,Construcion y RC Derivadas"
+1374,Rtic-Rvd/Pdc Pension Sobrevivencia,087,Pensiones Ley 100,Se renueva,PYF,Soluciones de EPS Sura,Sura,Otros,Otros,Rentas
+1377,Rtic-Rvd/Pdc Pension De Invalidez,087,Pensiones Ley 100,Se renueva,PYF,Soluciones de EPS Sura,Sura,Otros,Otros,Rentas
+1397,Pesados - Pesados Colectivo,9H2,Automoviles,Se renueva,PYF,HDI,Hdi,Automoviles,Automoviles,Colectivos
+1433,Pyme Colectivo Hdi,9H12,Generales,Se renueva,PYF,HDI,Hdi,Incendio,Incendio,Colectivos
+1462,Automoviles Colectivo,2B1,Automoviles,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Automoviles,Automoviles,Colectivos
+1497,Accidente Colectivo,12S10,Accidentes Personales,Se renueva,PYF,SEGUROS DEL ESTADO S.A.,S Estado,Accidentes Personales,Accidentes Personales,Colectivos
+1507,Accidente Colectivo,20C5,Accidentes Personales,Se renueva,PYF,CHUBB,Chubb,Accidentes Personales,Accidentes Personales,Colectivos
+1558,"Allianz Vida, Modalidad Ideal",3A43,"Allianz Vida, Modalidad Ideal",Se renueva,PYF,Allianz,Allianz,Vida Individual,Vida Individual,Colectivos
+1561,Tranquilidad Pymes + Digital,2B66,Multirriesgo Industrial,Se renueva,Empresariales,Compañía de Seguros Bolívar S.A.,Bolivar,Incendio,Incendio,Colectivos
+1562,Seguro Tranquilidad Adulto Mayor,2B118,Accidentes Personales Individ.,Se renueva,PYF,Compañía de Seguros Bolívar S.A.,Bolivar,Accidentes Personales,Accidentes Personales,Colectivos
+1563,Au Moto Plus,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1564,Au Plus Nvo,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1565,Au Cupos Excepcion Pesados Renovacion,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1566,Au Cupos Excepcion Tradicional Renovacio,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1567,Au Cupos Excepcion Plus Renovacion,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1568,Au Cupos Excepcion Esencial Renovacion,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1569,Alterno Amparado,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,Colectivos
+1570,Cumplimiento,3A44,Cumplimiento,Se renueva,PYF,Allianz,Allianz,Cumplimiento,Cumplimiento,Colectivos
+1574,Original Amparado,11C10,Salud,Se renueva,PYF,COLPATRIA,Colpatria,Salud Familiar,Salud Familiar,Colectivos
+1575,Au Motos Esencial,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1576,Seguro Vida A Mi Medida Deudor,11C15,Nvo.Seg.Hipot.T1,Se renueva,PYF,COLPATRIA,Colpatria,Otros,Otros,Colectivos
+1577,Au Pesados,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
+1578,Au Motos Cupos,11C1,Automoviles,Se renueva,PYF,COLPATRIA,Colpatria,Automoviles,Automoviles,Colectivos
